@@ -4,4 +4,3 @@
 ![Kishart's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishart&show_icons=true&theme=neon)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aybannn)](https://git.io/streak-stats)
