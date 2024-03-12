@@ -4,3 +4,4 @@
 ![Kishart's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishart&show_icons=true&theme=neon)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishart&layout=compact)
